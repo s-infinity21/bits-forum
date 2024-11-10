@@ -69,4 +69,7 @@ BITS Forum is a community-driven Q&A platform designed specifically for the BITS
 ## Acknowledgments
 - Guided by Prof. Tanmaya Mahapatra.
 
+---
 **Made with ❤️** - This project was crafted with passion and love. Hope you enjoy it!
+---
+
