@@ -26,7 +26,7 @@ BITS Forum is a community-driven Q&A platform designed specifically for the BITS
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone [<repository-url>](https://github.com/s-infinity21/bits-forum)
+   git clone https://github.com/s-infinity21/bits-forum
    cd bits-forum
 
 2. **Install Dependencies**
